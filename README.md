@@ -1,1 +1,2 @@
 # Finalproject_workshop
+Stroke's significant negative impact on society has prompted efforts to improve its management and diagnosis. The chosen paper focuses on analyzing electronic health records (EHRs) to enhance stroke prediction and was selected for its innovative application of machine learning (ML) in addressing this critical healthcare issue. Our project aims to replicate the study's findings by implementing and testing the ML models used.
